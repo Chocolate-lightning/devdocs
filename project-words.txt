@@ -4,11 +4,13 @@ Atto
 AWST
 Badgr
 Bangma
+blockname
 BMA
 Brickfield
 Bugcrowd
 Choicegroup
 CiBot
+commentarea
 CONTEXT_BLOCK
 CONTEXT_COURSE
 CONTEXT_COURSECAT
@@ -27,6 +29,8 @@ IDOR
 IMSCP
 InnoDB
 Ionicons
+itemids
+itemname
 JWKS
 MAINNODE
 MDL
@@ -149,6 +153,7 @@ formchangechecker
 frankenstyle
 frontpage
 fullname
+funciton
 googledocs
 gradebook
 gradebookservice
@@ -268,6 +273,8 @@ texteditor
 themers
 thirdparty
 thirdpartylibs
+timecreated
+timemodified
 tinymce
 todos
 toggleall

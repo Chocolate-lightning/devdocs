@@ -52,6 +52,9 @@ Coding:
 Coding_style:
 - filePath: "/general/development/policies/codingstyle/index.md"
   slug: "/general/development/policies/codingstyle"
+Comment_API:
+- filePath: "/docs/apis/subsystems/comment/index.md"
+  slug: "/docs/apis/subsystems/comment/"
 Communication_Between_Components:
 - filePath: "/general/development/policies/component-communication/index.md"
   slug: "/general/development/policies/component-communication"
@@ -76,12 +79,12 @@ Course_formats:
 Creating_mobile_course_formats:
 - filePath: "/docs/moodleapp/development/plugins-development-guide/examples/create-course-formats.md"
   slug: "/docs/moodleapp/development/plugins-development-guide/examples/create-course-formats"
-Custom_Moodle_Apps:
-- filePath: "/docs/moodleapp/customisation/custom-apps.md"
-  slug: "/docs/moodleapp/customisation/custom-apps"
 Credits:
 - filePath: "/general/community/credits/index.md"
   slug: "/general/community/credits"
+Custom_Moodle_Apps:
+- filePath: "/docs/moodleapp/customisation/custom-apps.md"
+  slug: "/docs/moodleapp/customisation/custom-apps"
 DDL_functions:
 - filePath: "/docs/apis/core/dml/ddl.md"
   slug: "/docs/apis/core/dml/ddl"
